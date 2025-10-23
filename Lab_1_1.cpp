@@ -2,8 +2,8 @@
 
 // Координаты вершин прямоугольного треугольника (гипотенуза на y=x)
 const double Ax = 0.0, Ay = 0.0;
-const double Bx = 5.0, By = 0.0;
-const double Cx = 5.0, Cy = 5.0;
+const double Bx = 10.0, By = 0.0;
+const double Cx = 10.0, Cy = 10.0;
 
 // площадь треугольника
 double calculateArea(double x1, double y1, double x2, double y2, double x3, double y3) {
